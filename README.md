@@ -2,6 +2,9 @@
 
 A simple Notes app built with Zustand for state management and react-native-mmkv for ultra-fast persistent storage in a React Native app using Expo.
 
+<img src="https://github.com/NeelContractor/ReactNativeExpoNotesApp/blob/main/assets/images/mainPage.jpg" width="25%" height="25%">
+<img src="https://github.com/NeelContractor/ReactNativeExpoNotesApp/blob/main/assets/images/mainPageWithData.jpg" width="25%" height="25%">
+
 ## This project is built for learning how to combine:
 
 - Global state (Zustand)
